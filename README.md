@@ -22,5 +22,6 @@ Veja aqui o exemplo de como colocar uma imagem nos locais acima.
 
 ![Brasão PUC Minas](images/brasao_puc.png)
 
-![print ferrmenta desenvolverdor](C:\Users\nenam\Documents\GitHub\trabalho-pratico-semana-1-vnmatos\images\print-ferr-desenvolvedor.png)
-![print hello world](C:\Users\nenam\Documents\GitHub\trabalho-pratico-semana-1-vnmatos\images\site-hello-world.png)
+![print ferrmenta desenvolverdor](images\print-ferr-desenvolvedor.png)
+
+![print hello world](images\site-hello-world.png)
