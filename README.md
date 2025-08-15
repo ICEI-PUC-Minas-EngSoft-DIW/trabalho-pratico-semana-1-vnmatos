@@ -12,7 +12,7 @@ Matricula: 898073
 ## Tela de projeto no Replit
 
 
-![Brasão PUC Minas](images/brasao_puc.png)
+![print hello world](images/site.png)
 
 
 
