@@ -7,12 +7,12 @@ Matricula: 898073
 
 ## Tela de inspeção com navegador
 
-![print ferrmenta desenvolverdor](C:\Users\nenam\Documents\GitHub\trabalho-pratico-semana-1-vnmatos\images\ferramenta.png)
+![print ferrmenta desenvolverdor](images\ferramenta.png)
 
 ## Tela de projeto no Replit
 
 
-![print hello world](C:\Users\nenam\Documents\GitHub\trabalho-pratico-semana-1-vnmatos\images\site.png)
+![print hello world](images\site.png)
 
 
 
