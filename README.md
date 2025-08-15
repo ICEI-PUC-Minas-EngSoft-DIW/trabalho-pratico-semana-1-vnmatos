@@ -7,12 +7,12 @@ Matricula: 898073
 
 ## Tela de inspeção com navegador
 
-
+![print da ferramenta dev](images/ferramenta.png)
 
 ## Tela de projeto no Replit
 
 
-
+![print page hello world](images/site.png)
 
 
 
